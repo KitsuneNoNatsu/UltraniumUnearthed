@@ -1,0 +1,5 @@
+displayName = Example Mod
+author = TML Team
+version = 2025.5.2.0
+homepage = https://tmodloader.net/
+includeSource = true
