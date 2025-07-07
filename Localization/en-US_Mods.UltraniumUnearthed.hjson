@@ -1,0 +1,12 @@
+NPCs.ZephyrSquid.DisplayName: Zephyr Squid
+
+Projectiles: {
+	AquaBall.DisplayName: Aqua Ball
+	Bubble.DisplayName: Bubble
+	InkBubble.DisplayName: Ink Bubble
+	InkCloud.DisplayName: Ink Cloud
+	InkGlob.DisplayName: Ink Glob
+	SquidChargeTelegraph.DisplayName: Squid Charge Telegraph
+	WaterHelix1.DisplayName: Water Helix1
+	WaterHelix2.DisplayName: Water Helix2
+}

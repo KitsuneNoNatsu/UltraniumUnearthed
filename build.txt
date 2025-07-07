@@ -1,5 +1,4 @@
-displayName = Example Mod
-author = TML Team
-version = 2025.5.2.0
-homepage = https://tmodloader.net/
-includeSource = true
+displayName = Ultranium Unearthed
+author = Octo
+version = 0.1.0
+modReference = 

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zzVZ0PVEIS8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\UltraniumUnearthed\\UltraniumUnearthed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
