@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,6 +25,10 @@
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ZephyrSquid.cs",
@@ -32,7 +36,7 @@
               "RelativeDocumentMoniker": "Content\\NPCs\\Bosses\\ZephyrSquid\\ZephyrSquid.cs",
               "ToolTip": "C:\\Users\\Alex\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\UltraniumUnearthed\\Content\\NPCs\\Bosses\\ZephyrSquid\\ZephyrSquid.cs",
               "RelativeToolTip": "Content\\NPCs\\Bosses\\ZephyrSquid\\ZephyrSquid.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAJABAAAAAAAAAAAgwJwBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T22:01:06.116Z",
               "EditorCaption": ""
