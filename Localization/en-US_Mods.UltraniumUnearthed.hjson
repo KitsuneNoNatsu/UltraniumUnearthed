@@ -10,3 +10,13 @@ Projectiles: {
 	WaterHelix1.DisplayName: Water Helix1
 	WaterHelix2.DisplayName: Water Helix2
 }
+Items: {
+	ZephyrTentacle: {
+		DisplayName: Zephyr Squid's Tentacle
+		Tooltip:
+			'''
+			10% increased movement speed
+			Massively increases jump height
+			'''
+	}	
+}
